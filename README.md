@@ -21,7 +21,9 @@ You can alter the rules by changing the code.
 - Scissors beats Paper
 
 ## Sample Output
-Refer the image  attached 
+Refer the image  attached ![Rock_Paper_Scissors](https://github.com/Warisali099/Stone_Paper_Scissor_game_Using_Java/assets/126592623/d825213f-9254-438c-b62d-f3fb57eddcec)
+
+
 
 ## Notes
 
